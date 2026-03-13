@@ -1,4 +1,4 @@
-# Hi, I'm [Joaquim Köster] 👋
+# Hi, I'm Joaquim Köster 
 
 ### 🚀 Tech Explorer | Python, Java & Web Development
 
@@ -31,7 +31,7 @@ Welcome to my digital garden! I'm a developer in training, focused on mastering 
 
 ## 📫 How to reach me
 - **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **Portfolio:** [seu-site.com](https://seu-site.com)
+- **Portfolio:** [koster-tech.com](https://koster-tech.com)
 
 ---
 *“Done is better than perfect.”*
