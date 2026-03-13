@@ -30,7 +30,7 @@ Welcome to my digital garden! I'm a developer in training, focused on mastering 
 - 📚 **Knowledge Base:** Daily study logs in Python and Java.
 
 ## 📫 How to reach me
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/joaquim-koster)
+- **LinkedIn:** [linkedin.com/in/joaquim-koster](https://www.linkedin.com/in/joaquim-koster)
 - **Portfolio:** [koster-tech.com](https://koster-tech.com)
 
 ---
