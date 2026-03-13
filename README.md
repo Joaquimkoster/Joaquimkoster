@@ -1,5 +1,5 @@
 # 💫 About Me:
-sou joaquim koster, sou estudante de informatica, trabalho com full stack, sei python, java, html, css, javascript. sei mysql, sei mecher com windows, linux, githhub<br>
+Sou Joaquim Koster, estudante de Informática e desenvolvedor Full Stack. Possuo experiência no desenvolvimento de aplicações web e no gerenciamento de bancos de dados, além de conhecimentos em administração de sistemas Windows e Linux e controle de versionamento utilizando GitHub.<br>
 
 
 ## 🌐 Socials:
