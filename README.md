@@ -28,7 +28,6 @@ Olá! Eu sou **Joaquim Koster**, estudante de **Informática** e desenvolvedor *
 
 ![](https://nirzak-streak-stats.vercel.app/?user=joaquimkoster&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimkoster&theme=dark&hide_border=false&layout=compact)
 
 ---
 
