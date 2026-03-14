@@ -1,5 +1,6 @@
 # 💫 About Me
 Olá! Eu sou **Joaquim Koster**, estudante de **Informática** e desenvolvedor **Full Stack**.  
+
 ---
 
 # 🌐 Socials
