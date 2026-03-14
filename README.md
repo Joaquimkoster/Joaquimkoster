@@ -1,9 +1,5 @@
 # 💫 About Me
 Olá! Eu sou **Joaquim Koster**, estudante de **Informática** e desenvolvedor **Full Stack**.  
-Tenho experiência no desenvolvimento de **aplicações web**, **gerenciamento de bancos de dados**, **controle de versionamento** e **desenvolvimento backend**.
-
-Também possuo conhecimentos em **administração de sistemas Windows e Linux**, além de trabalhar com ferramentas modernas utilizadas no desenvolvimento de software.
-
 ---
 
 # 🌐 Socials
