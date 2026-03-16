@@ -1,7 +1,7 @@
 I'm **Joaquim Koster**, a **Computer Science** student and **Full Stack** developer.
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 - 🎓 Cursando Informatica no Colégio Técnico Bento Quirino.
 - 🏦 Atualmente desenvolvendo um [Sistema Bancário Robusto](https://github.com/Joaquimkoster/Bank).
 
