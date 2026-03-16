@@ -17,6 +17,7 @@ Hello! I'm **Joaquim Koster**, a **Computer Science** student and **Full Stack**
 | **Frameworks** | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) |
 | **DB & Infra** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Win_Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) |
+![Linux](https://img.shields.io/badge/Linux_Terminal-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
