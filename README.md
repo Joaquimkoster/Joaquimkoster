@@ -1,4 +1,3 @@
-#  About Me
 I'm **Joaquim Koster**, a **Computer Science** student and **Full Stack** developer.
 ---
 
