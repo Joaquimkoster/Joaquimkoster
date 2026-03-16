@@ -3,8 +3,8 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Cursando Informática no Colégio Técnico Bento Quirino.
-- 🏦 Atualmente desenvolvendo um [Sistema Bancário Robusto](https://github.com/Joaquimkoster/Bank).
+- 🎓Currently studying Computer Science at the Bento Quirino Technical College.
+- 🏦Currently developing a [Robust Banking System](https://github.com/Joaquimkoster/Bank).
 
 ## 📱 Contact me
 
