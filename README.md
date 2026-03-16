@@ -1,15 +1,15 @@
-#  About Me
+#  - About Me
 Hello! I'm **Joaquim Koster**, a **Computer Science** student and **Full Stack** developer.
 ---
 
-#  Socials
+#  - Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/koster.tech) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquim-koster) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaquim.koster@hotmail.com)
 
 ---
 
-#  Tech Stack
+#  - Tech Stack
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -22,7 +22,7 @@ Hello! I'm **Joaquim Koster**, a **Computer Science** student and **Full Stack**
 
 ---
 
-#  GitHub Stats
+#  - GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=joaquimkoster&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
