@@ -1,6 +1,11 @@
 I'm **Joaquim Koster**, a **Computer Science** student and **Full Stack** developer.
 ---
 
+### 🚀 About Me
+- 🎓 Cursando Ciência da Computação.
+- 💻 Desenvolvedor Full Stack focado em ecossistema Python.
+- 🏦 Atualmente desenvolvendo um [Sistema Bancário Robusto](link-do-seu-repo) com foco em DB & Infra.
+
 #  Contact me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/koster.tech) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquim-koster) 
