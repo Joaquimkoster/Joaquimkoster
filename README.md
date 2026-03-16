@@ -26,7 +26,6 @@ I'm **Joaquim Koster**, a **Computer Science** student and **Full Stack** develo
 
 ![](https://github-readme-stats.vercel.app/api?username=joaquimkoster&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=joaquimkoster&theme=dark&hide_border=false)
 
 
 ---
