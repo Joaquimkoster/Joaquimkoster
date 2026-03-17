@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 🎓 Currently studying Computer Science at the Bento Quirino Technical College.
-- 🏦 Currently developing a [To-Do List](https://github.com/Joaquimkoster/Java-Code).
+- 📋 Currently developing a [To-Do List](https://github.com/Joaquimkoster/Java-Code).
 
 ## 📱 Contact me
 
