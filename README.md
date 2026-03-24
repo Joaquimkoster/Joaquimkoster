@@ -32,6 +32,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimkoster&layout=compact&theme=dark)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=joaquimkoster&theme=dracula)
+
 ---
 
 ![Views](https://komarev.com/ghpvc/?username=joaquimkoster&color=blue&style=flat-square)
