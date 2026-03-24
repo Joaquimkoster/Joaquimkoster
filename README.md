@@ -29,8 +29,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaquimkoster&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimkoster&layout=compact&theme=dark&cache_seconds=1800" height="165" />
+  <table align="center">
+    <tr valign="top">
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=joaquimkoster&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" height="195" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimkoster&layout=compact&theme=dark&cache_seconds=1800" height="195" />
+      </td>
+    </tr>
+  </table>
 </p>
 ---
 
