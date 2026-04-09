@@ -25,9 +25,9 @@
 ---
 
 ### 🚀 Streak de Contribuições
-<p align="center">
+
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaquimkoster&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
----
+</div>
 
 ![Views](https://komarev.com/ghpvc/?username=joaquimkoster&color=blue&style=flat-square)
