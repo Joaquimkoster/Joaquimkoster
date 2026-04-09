@@ -26,7 +26,10 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaquimkoster&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" height="170" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimkoster&layout=compact&theme=dark&cache_seconds=1800" height="170" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaquimkoster&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimkoster&layout=compact&theme=dark" height="170" />
+</div>
 ---
 
 ![Views](https://komarev.com/ghpvc/?username=joaquimkoster&color=blue&style=flat-square)
