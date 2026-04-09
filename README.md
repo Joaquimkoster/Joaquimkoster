@@ -26,8 +26,27 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaquimkoster&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" height="170" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimkoster&layout=compact&theme=dark&cache_seconds=1800" height="170" />
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=joaquimkoster&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="170" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimkoster&layout=compact&theme=dark&hide_border=false" height="170" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🚀 Streak de Contribuições
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaquimkoster&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 ---
 
 ![Views](https://komarev.com/ghpvc/?username=joaquimkoster&color=blue&style=flat-square)
