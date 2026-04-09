@@ -24,25 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=joaquimkoster&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="170" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimkoster&layout=compact&theme=dark&hide_border=false" height="170" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 🚀 Streak de Contribuições
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaquimkoster&theme=dark&hide_border=false" alt="GitHub Streak" />
