@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 🎓 Currently studying Computer Science at the Bento Quirino Technical College.
-- 📋 I am currently working at Texan Group.
+- 💼 I am currently working at Texan Group.
 
 ## 📱 Contact me
 
