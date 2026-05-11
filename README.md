@@ -1,4 +1,5 @@
 # I'm **Joaquim Koster**, a **Computer Science** student and **Full Stack** developer.
+# I am currently working at Texan Group.
 
 ---
 
