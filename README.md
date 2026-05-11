@@ -1,11 +1,10 @@
 # I'm **Joaquim Koster**, a **Computer Science** student and **Full Stack** developer.
-# I am currently working at Texan Group.
 
 ---
 
 ## 🚀 About Me
 - 🎓 Currently studying Computer Science at the Bento Quirino Technical College.
-- 📋 Currently developing a [To-Do List](https://github.com/Joaquimkoster/Java-Code).
+- 📋 I am currently working at Texan Group.
 
 ## 📱 Contact me
 
