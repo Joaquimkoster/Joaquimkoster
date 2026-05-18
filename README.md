@@ -32,3 +32,11 @@
 
 ---
 ![Views](https://komarev.com/ghpvc/?username=joaquimkoster&color=blue&style=flat-square)
+
+<div align="center">
+
+# 🐸 O Sapo Falante (`talking-frog`)
+
+> "Não sou príncipe, mas sei trocar uma ideia." — *Sapo, O Falante*
+
+---
